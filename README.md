@@ -12,4 +12,4 @@ I'm a technical high school student from Argentina focused on full-stack web dev
 - **Tools & Hardware:** Git, GitHub, VS Code, Godot Engine 4, Arduino
 
 ## Contact
-- Email: [f.alexis.flor@gmail.com]
+- Email: f.alexis.flor@gmail.com
